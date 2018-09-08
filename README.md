@@ -3,10 +3,10 @@
 # Group Members: Sandhiya, Engy, and Karen
 
 
-# Project Description: Analyzing Yelp data for Cleveland, Columbus, and Cincinnati
+# Project Description: Analyzing Yelp data for Cleveland
 
 
-# Q: What is the star distribution for each main category?
+# Q: What is the star distribution for each main category of restaurants?
 
 
 # Q: Is there a difference in reviews for locations that have paid parking vs non-paid parking?  How does parking affect the number of check-ins?
